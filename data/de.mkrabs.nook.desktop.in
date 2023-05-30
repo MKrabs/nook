@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=nook
+Exec=nook
+Icon=de.mkrabs.nook
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

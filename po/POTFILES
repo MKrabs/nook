@@ -1,0 +1,6 @@
+data/de.mkrabs.nook.desktop.in
+data/de.mkrabs.nook.appdata.xml.in
+data/de.mkrabs.nook.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
